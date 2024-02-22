@@ -1,1 +1,1 @@
-# empirejs
+# Empire JS
